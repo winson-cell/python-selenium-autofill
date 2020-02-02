@@ -1,5 +1,7 @@
 # python-selenium
-This is a simple web scrapping program using selenium in python 3.8 for window 10
+This is a simple web scrapping program using selenium in python 3.8 for window 10 and using chrome 
+
+** If you are using Firefox,Internet Explorer or Safari please refer at the end of the ReadMe.md which is the whole documentation of selenium python
 
 For this to work you will need to install
 * python 3 of any version
