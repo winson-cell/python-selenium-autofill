@@ -48,7 +48,7 @@ You can check your chromedriver directory by right clicking your chromedriver.ex
 
 ** important note
 
-Selenium use \\ instead of / , ensure all / is changed to \\ for this program to fully function
+Selenium use \ \ instead of / , ensure all / is changed to \ \ for this program to fully function
 
 3) Go to your desire website and inspect the html by right clicking, in this case I use facebook
 
