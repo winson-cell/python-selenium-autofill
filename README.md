@@ -82,3 +82,8 @@ If you want to learn more the keyword for this function is called Web Scrapping
 For more info regarding selenium
 
 https://selenium-python.readthedocs.io/
+
+-------------------------------------------
+Check out more news regarding the new coronavirus
+
+http://wuhan-coronavirus.org/
