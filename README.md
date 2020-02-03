@@ -26,11 +26,19 @@ How to check chrome version
 
 * selenium
 
-You can just pip install selenium in your cmd
+You can 
+
+`pip install selenium`
+
+in your cmd , if you don't have selenium
 
 * tkinter
 
-You can just pip install tkinter in your cmd
+You can 
+
+`pip install tkinter`
+
+in your cmd, if you don;t have tkinter
 
 For most of the problem you can just copy the error and search it in stack overflow or google
 
