@@ -87,3 +87,8 @@ https://selenium-python.readthedocs.io/
 Check out more news regarding the new coronavirus
 
 http://wuhan-coronavirus.org/
+
+---------------------------------------------
+Check out more news about cryptocurrency 
+
+http://btcregulations.info/
